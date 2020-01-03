@@ -8,9 +8,9 @@ Projeto para certicação do <a hrfe="https://rocketseat.com.br/bootcamp">bootca
 
 Abaixo segue os repositorios que compoem a plataforma GymPoint, dentro de cada repositorio existe um REDME contendo o passo a passo para a instalação.
 
-1. <a hrfe="https://github.com/julianosirtori/GymPoint-BackEnd">BackEnd</a>
-2. <a hrfe="https://github.com/julianosirtori/GymPoint-FrontEnd">FrontEnd</a>
-3. <a hrfe="https://github.com/julianosirtori/GymPoint-Mobile">App Android</a>
+1. <a href="https://github.com/julianosirtori/GymPoint-BackEnd">BackEnd</a>
+2. <a href="https://github.com/julianosirtori/GymPoint-FrontEnd">FrontEnd</a>
+3. <a href="https://github.com/julianosirtori/GymPoint-Mobile">App Android</a>
 
 ## Screenshots
 FrontEnd:
